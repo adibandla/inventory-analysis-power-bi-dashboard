@@ -1,1 +1,1 @@
-# inventory-analysis-power-bi-dashboard
+# Inventory analysis
